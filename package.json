@@ -1,4 +1,8 @@
 {
+  "name": "dxyc",
+  "version": "0.0.1",
+  "description": "de xian yin cha",
+  "packageManager": "pnpm@10.24.0",
   "private": true,
   "type": "module",
   "scripts": {
